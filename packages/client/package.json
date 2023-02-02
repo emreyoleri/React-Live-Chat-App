@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "@whatsapp-clone/client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "formik": "^2.2.9",
     "framer-motion": "^4",
     "react-router-dom": "6",
-    "yup": "^0.32.11",
+    "@whatsapp-clone/common": "1.0.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
